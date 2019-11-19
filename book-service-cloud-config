@@ -1,5 +1,5 @@
 
-server.port=9100
+server.port=4242
 
 # allow for RefreshScope
 
